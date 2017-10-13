@@ -1,0 +1,45 @@
+[{"ispravno_1":"imenice",
+"ispravno_2":"imenica",
+"pojasnjenje":"Imenice su promenjive vrste reči kojima se imenuje neko biće, predmet ili pojava. Gramatičke kategorije imenice su rod, broj i padež. U rečenici imenice su samostalne reči, a mogu da vrše sve službe reči (subjekat, imenski deo predikata, objekat, apozicija, atribut i priloške odredbe). Zavisno od broja koji označava da li ima jedan objekat ili više njih imenice mogu da imaju jedninu  i množinu. Neke imenice imaju samo jedninu (singularia tantum), a neke samo množinu (pluralia tantum). Postoje imenice koje u jednini imaju jedan, a u množini drugi oblik."
+},
+{"ispravno_1":"glagoli",
+"ispravno_2":"glagol",
+"pojasnjenje":" Glagoli su promenjive reči koje označavaju radnju, stanje u kome se neko ili nešto nalazi ili neko zbivanje u prirodi."
+},
+{"ispravno_1":"zamenice",
+"ispravno_2":"zamenica",
+"pojasnjenje":"Zamenice su promenjive vrste reči kojima se zamenjuju imena bića, predmeta i stvari, tj.  zamenjuju se imenice, pridevi i brojevi. Dele se na  imeničke i pridevske zamenice."
+},
+{"ispravno_1":"padeži",
+"ispravno_2":"padež",
+"pojasnjenje":"Padeži su različiti oblici jedne promenljive reči. U srpskom jeziku ima sedam padeža u jednini i množini. Promena reči kroz padeže zove se deklinacija. Padeži u srpskom jeziku su: nominativ,genitiv,dativ,akuzativ,vokativ, instrumental i lokativ."
+},
+{"ispravno_1":"nominativ",
+"ispravno_2":"nominat",
+"pojasnjenje":"Nominativ je nezavisan padež koji u rečenici može da stoji samostalno. Dobija se na pitanja:  Ko? Šta? Primer: Tijana trenira odbojku."
+},
+{"ispravno_1":"genitiv",
+"ispravno_2":"genit",
+"pojasnjenje":"Genitiv je zavisan padež koji označava pripadnost, deo nečega i poreklo. Dobija se na pitanja:  Koga? Čega?  Od koga? Od čega? Primer:  Stefan pored košarke trenitra j stoni tenis. "
+},
+{"ispravno_1":"dativ",
+"ispravno_2":"dat",
+"pojasnjenje":"Dativ je zavisan padež koji znači pravac, smer ili cilj kretanja i namenu. Dobija se na pitanja:  Kome? Čemu?  Predlozi za dativ:  ka, k, prema, blizu, nasuprot, uprkos, protiv. Primer:  Jovana se raduje svakom poenu."
+},
+{"ispravno_1":"akuzativ",
+"ispravno_2":"akuz",
+"pojasnjenje":"Akuzativ je zavisan padež kojim se označava objekt radnje, pravac kretanja i mesto. Dobija se na pitanja:  Koga? Šta?  Predlozi za akuzativ: kroz, niz, uz, za, među, nad, pod, pred, u, na, o, po, mimo.  Primer:  Marko voli da klizi niz parket."
+},
+{"ispravno_1":"vokativ",
+"ispravno_2":"vokat",
+"pojasnjenje":"Vokativ je nezavisan padež koji služi za dozivanje, obraćanje, skretanje pažnje (Oj! Hej!) Pri pisanju se odvaja zarezima. Upotrebljava se bez predloga. Primer:  Minja, dođi ovamo!"
+},
+{"ispravno_1":"instrumental",
+"ispravno_2":"instrument",
+"pojasnjenje":"Instrumental je zavisan padež koji kazuje društvo i oruđe ili sredstvo za rad. Dobija se na pitanja: S kime? Čime?  Predlozi za instrumental: s, sa, pod, nad, pred, među, za Primer:  U školu uvek putujem autobusom."
+},
+{"ispravno_1":"lokativ",
+"ispravno_2":"lokat",
+"pojasnjenje":" Lokativ je zavisan padež koji označava mesto na kome se nešto nalazi i objekat o kome se govori. Dobija se na pitanja: Gde? čime? O kome? O čemu? Na kome? Na čemu? Po kome? Po čemu? U kome? U čemu? Lokativ se uvek upotrebljava sa predlozima.  Predlozi za lokativ: na, o, po, pri, u Primer:  Pera voli da sedi na klupi."
+}
+]
